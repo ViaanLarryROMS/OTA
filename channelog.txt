@@ -1,0 +1,8 @@
+Device Maintainer: Viaan
+Device: Redmi Note 10
+Telegram Channel: https://t.me/ViaanAOSP
+
+Date - 22-04-2026
+=============================
+- Added OTA Support
+- Added Mi Cam (Beta)
